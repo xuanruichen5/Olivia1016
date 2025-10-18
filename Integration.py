@@ -2,7 +2,7 @@
 # import modules
 import tkinter as tk
 import sqlite3
-
+print("hellow")
 
 # bacis GUI
 root = tk.Tk()
